@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Banking System:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Banking_System_jar</output-path>
+    <root id="archive" name="Banking System.jar">
+      <element id="module-output" name="Banking System" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../mysql-connector-java-8.0.25.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
