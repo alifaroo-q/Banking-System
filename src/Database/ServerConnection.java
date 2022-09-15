@@ -14,7 +14,7 @@ public class ServerConnection {
         // change the variables accordingly
 
         String USER = "root";
-        String PASS = "!Ali2206^";
+        String PASS = "+++++";
 
         String HOST = "localhost";
         String PORT = "3306";
